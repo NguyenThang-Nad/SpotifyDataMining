@@ -1,2 +1,3 @@
 # SpotifyDataMining
-SPOTIFY MUSIC DATA MINING.
+The Data Mining project: Building Mood-Based Spotify Playlists
+#
